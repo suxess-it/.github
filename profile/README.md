@@ -1,4 +1,18 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/suxess-it/.github/blob/main/images/suxess_it_logo_55x15.png" width="600px;">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/suxess-it/.github/blob/main/images/suxess_it_logo_55x15.png" width="600px;">
+</picture>
+
+suXess-IT is your cloud-native platform provider!
+
+## Contact us ##
+You can find more about us and get in contact here:
+
+* LinkedIn: https://www.linkedin.com/company/suxess-information-technologies-gmbh/
+* Website: https://www.suxess-it.com/
+
+## Repositories ##
+...
 
 <!--
 
